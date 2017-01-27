@@ -1,0 +1,1 @@
+# aws-auto-hostname-and-ddns
